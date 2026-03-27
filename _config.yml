@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
 title: Tira Programming Language
 description: ⚡💬 Interactive, REPL-driven language with the aim of delivering near-native performance
-github_editme_path: https://github.com/declank/tira
+repository: declank/tira
 search_in_topnav: true
